@@ -1,1 +1,3 @@
 Things to do -
+1. Commit (done)
+2. Ignoring files.
