@@ -1,2 +1,5 @@
+tmp --> ignore tmp folder(and all files in tht folder) in gitproject directory
+tmp/temp1.txt --> ignore temp1.txt file in tmp folder
+*.swp --> ignore all files with extension .swp
+!test/master.txt --> will not ignore master.txt file in test folder. ! --> wont ignore
 tmp
-tmp/temp1.txt
